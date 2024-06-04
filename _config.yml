@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Maria Basia
-title: Junior Software Develoer
+title: Junior Software Developer
 email: maria.basia1@gmail.com
 
 # Dark Mode (true/false/never)
@@ -35,9 +35,10 @@ about_content: | # this will include new lines to allow paragraphs
   and backend development within tight timelines. Experienced in client-facing and in-house roles, with strong communication, 
   analytical, problem-solving, and strategic skills, as well as collaborating with cross-functional Product teams. 
 
-  Tech skills Python | JavaScript | HTML | CSS | Swift | React | SwiftUI | Flask | Pytest | MERN stack | Node.js |
-  Express.js | SQL database (Postgresql) | noSQL database (MongoDB) | RESTful APIs | Git | GitHub | TDD | OOP | 
-  Agile Methodologies | Docker | CI/CD
+   - title: Tech skills 
+     content: Python JavaScript HTML CSS Swift React SwiftUI Flask Pytest MERN stack Node.js 
+      Express.js SQL database (Postgresql) noSQL database (MongoDB) RESTful APIs Git GitHub TDD OOP 
+      Agile Methodologies Docker CI/CD
 
 content:
   - title: Projects # Title for the section
