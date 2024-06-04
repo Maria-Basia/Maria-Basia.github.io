@@ -44,7 +44,15 @@ about_content: | # this will include new lines to allow paragraphs
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
   ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
   ![SWIFTUI](https://img.shields.io/badge/SwiftUI-2-blue)
-  ![Pytest](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
+  ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
+  ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) 
+  
 
 content:
   - title: Projects # Title for the section
@@ -55,8 +63,8 @@ content:
         link: https://github.com/Maria-Basia/acebook-krypton-web-app
         
         description: | # this will include new lines to allow paragraphs
-          Facebook-like web app | April 2024 | 2-week project
-          Tech:  JavaScript | MERN stack |  MongoDB  |  Express.js | React | Node.js
+          Facebook-like web app, April 2024, 2-week project
+          Tech:  JavaScript MERN stack MongoDB  Express.js  React  Node.js
           
           A Facebook-like web app built with the MERN stack. Starting from a legacy codebase with account creation, login, and 
           viewing posts functionality, features were added for creating and liking posts, commenting on posts, liking comments, 
