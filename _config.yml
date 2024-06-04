@@ -78,7 +78,7 @@ content:
         
         description: | # this will include new lines to allow paragraphs
           ### Facebook-like web app <br>
-          April 2024, 2-week project
+          April 2024, 2-week project <br>
           **Tech:**  JavaScript *** MERN stack *** MongoDB *** Express.js *** React *** Node.js
           
           A Facebook-like web app built with the MERN stack. Starting from a legacy codebase with account creation, login, and 
