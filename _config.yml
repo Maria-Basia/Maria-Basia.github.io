@@ -65,8 +65,7 @@ about_content: | # this will include new lines to allow paragraphs
   ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) 
   ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) 
   ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white)  
-  
-  
+
 <br>
 content:
   - title: Projects # Title for the section
@@ -77,9 +76,9 @@ content:
         link: https://github.com/Maria-Basia/acebook-krypton-web-app
         
         description: | # this will include new lines to allow paragraphs
-          ### Facebook-like web app <br>
+          Facebook-like web app <br>
           April 2024, 2-week project <br>
-          **Tech:**  JavaScript  MERN stack  MongoDB *** Express.js  React  Node.js
+          **Tech:**  JavaScript  MERN stack  MongoDB  Express.js  React  Node.js
           
           A Facebook-like web app built with the MERN stack. Starting from a legacy codebase with account creation, login, and 
           viewing posts functionality, features were added for creating and liking posts, commenting on posts, liking comments, 
