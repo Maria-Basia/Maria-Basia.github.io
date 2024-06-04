@@ -34,9 +34,8 @@ about_content: | # this will include new lines to allow paragraphs
   and Accessibility. Recently graduating from Makers Software Bootcamp, I worked on full-stack projects, handling both frontend 
   and backend development within tight timelines. Experienced in client-facing and in-house roles, with strong communication, 
   analytical, problem-solving, and strategic skills, as well as collaborating with cross-functional Product teams. 
-
-   - title: Tech skills 
-     content: Python JavaScript HTML CSS Swift React SwiftUI Flask Pytest MERN stack Node.js 
+  <br><br>
+  **Tech skills:** Python JavaScript HTML CSS Swift React SwiftUI Flask Pytest MERN stack Node.js 
       Express.js SQL database (Postgresql) noSQL database (MongoDB) RESTful APIs Git GitHub TDD OOP 
       Agile Methodologies Docker CI/CD
 
